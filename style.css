@@ -1,0 +1,49 @@
+body
+{
+    text-align: center;
+    background-image:url("project_backdrop.jpeg");
+    background-position: center;
+    background-size: cover;
+   
+}
+p
+{
+   height: 40px;
+   width:250px;
+   text-align:center;
+   font-weight: bold;
+   font-size: 25px;
+   border-radius: 5px;
+   padding-bottom: 20px;
+   margin-top: 50px;
+    
+   
+}
+h5
+{
+   height: 30px;
+   width: 350px;
+   font-size: 9px;
+   border-radius: 1px;
+   padding:5px;
+}
+span
+{
+    font-weight: bold;
+    color: black;
+}
+canvas
+{
+    background-color: white;
+    border-style:double;
+    border-color: grey;
+    border-width: 10px;
+}
+#note_info{
+    font-size: 15px;
+    color: white;
+    font-style: oblique;
+    width: 350px;
+    background-color: black;
+    border-radius: 0px;
+}
